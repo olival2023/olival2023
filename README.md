@@ -69,11 +69,17 @@ Windows Server
 Azure Data Factory
 ## Certificaçoes
 DP 900 Azure Data Fundamental 
+
 Oracle OCI Data Foundations Associate 2024 
+
 Certificacao Oracle Cloud Infrastructure 2023 AI Certified Foundations 
+
 Certificao ITIL V3. 
+
 Certificacao Oracle OCI 2022 
+
 Certificacao Oracle Cloud Data Management 2022 Foundations Certified 
+
 Scrum Foundation Professional Certificate.
 
 
