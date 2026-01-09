@@ -10,6 +10,10 @@ Curso Imersao Azure BigData Turma 07-LS
 TREINAMENTOS Curso Imersao Azure BigData Turma 09
 LS TREINAMENTOS 
 
+Mysql
+
+Mysql workbench
+
 Administração PostgreSQL com Alta Disponibilidade – AC-Empresa 4Linux  
 
 Curso Avançado Engenharia dados -hortmart 
